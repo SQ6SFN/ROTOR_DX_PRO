@@ -31,7 +31,7 @@ Advanced, open-source Antenna Rotator Controller based on the ESP8266 (NodeMCU) 
 | **Relay: Turn CCW (Left)** | `D6` (GPIO12) |
 | **Limit Switch: CW** | `D3` (GPIO0) - *Connect to GND* |
 | **Limit Switch: CCW** | `D7` (GPIO13) - *Connect to GND* |
-
+![Rotor DX Pro Wiring Diagram](Rotor_Schem.jpg)
 ## 🚀 How to use
 1. Enter your Wi-Fi credentials in the code (`ssid` and `password`).
 2. Upload the code to your ESP8266 using the Arduino IDE.
