@@ -6,8 +6,8 @@
 #include <Adafruit_SSD1306.h>
 
 // --- WIFI CONFIGURATION ---
-const char* ssid = "TP";
-const char* password = "Trade.123";
+const char* ssid = "SSID";
+const char* password = "Password";
 
 // --- PIN DEFINITIONS ---
 const int RELAY_PWR = D4; // Main transformer power relay
