@@ -41,3 +41,9 @@ Advanced, open-source Antenna Rotator Controller based on the ESP8266 (NodeMCU) 
 
 ## ⚠️ Notes on the AS5600 Magnet
 To achieve a reading distance of up to 10-15 mm, do **not** use standard axial magnets. You must use a diametrically magnetized magnet. Alternatively, place two standard neodymium magnets (e.g., 10x5mm) side-by-side with a 2mm gap on a flat steel washer to create a strong magnetic arch directed at the sensor.
+
+## ☕ Support the Project
+
+If you find this project useful for your Ham Radio shack and it helped you catch some great DX, consider supporting my work! Your donations motivate me to keep improving the code and adding new features.
+
+[**👉 Donate via PayPal (SQ6SFN)**](https://www.paypal.me/SQ6SFN)
